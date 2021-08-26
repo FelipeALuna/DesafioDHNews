@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro&family=Oswald:wght@200;300&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Andada Pro', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.centro {
+    margin: 0 auto;
+    width: 940px;
+    padding: 40px;
+}
+
+#titulo {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+h1 {
+    color: #ec183f
+}
+
+header {
+    margin: 90px 0px 40px 0px;
+}
+
+header h1 {
+    margin: 21px 0px 10px 0px;
+}
+
+header h2 {
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+section {
+    margin: 30px auto;
+    font-size: 18px;
+}
+
+#imagemDH {
+    width: 100%;
+}
+
+hr {
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+
+}
+
+footer img {
+    text-align: center;
+    max-width: 30px;
+    padding: 20px;
+}
+
+.ultima {
+    margin: 0px 0px 60px 0px;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+footer li {
+    display: inline-block;
+}
